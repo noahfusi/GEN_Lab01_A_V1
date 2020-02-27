@@ -8,3 +8,4 @@ dev commit 1
 dev commit 2
 experimental commit 1
 crazy_idea commit 1
+dev commit 3
