@@ -7,3 +7,4 @@ experimental commit 1
 experimental commit 1
 crazy_idea commit 1
 master commit 5
+bug_fix commit 2
