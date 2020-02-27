@@ -4,3 +4,5 @@ master commit 3
 master commit 4
 bug_fix commit 1
 experimental commit 1
+experimental commit 1
+crazy_idea commit 1
