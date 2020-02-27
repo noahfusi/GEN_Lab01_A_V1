@@ -5,3 +5,4 @@ master commit 4
 bug_fix commit 1
 experimental commit 1
 dev commit 1
+dev commit 2
